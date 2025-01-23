@@ -1,5 +1,5 @@
 {
-  "name": "natilosir/session",
+  "name": "natilosir/cookie",
   "description": "A simple library for creating and managing cookies in PHP",
   "type": "library",
   "license": "MIT",
